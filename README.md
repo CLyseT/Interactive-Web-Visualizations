@@ -9,7 +9,7 @@ Completed Plotly Challenged with the following result:
 
 * [Full Code](https://github.com/CLyseT/Interactive-Web-Visualizations/tree/main/Code%20Files)
 
-* [Related Data]("https://github.com/CLyseT/Interactive-Web-Visualizations/tree/main/Data%20Files)
+* [Related Data](https://github.com/CLyseT/Interactive-Web-Visualizations/tree/main/Data%20Files)
 
 * Project Completed 9/11
 
