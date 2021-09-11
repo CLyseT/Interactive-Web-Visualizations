@@ -7,9 +7,9 @@ Completed Plotly Challenged with the following result:
 
 
 
-* <link src="https://github.com/CLyseT/Interactive-Web-Visualizations/tree/main/Code%20Files"> Full Code </link>
+* [Full Code](https://github.com/CLyseT/Interactive-Web-Visualizations/tree/main/Code%20Files)
 
-* <link src="https://github.com/CLyseT/Interactive-Web-Visualizations/tree/main/Data%20Files"> Data </link> 
+* [Related Data]("https://github.com/CLyseT/Interactive-Web-Visualizations/tree/main/Data%20Files)
 
 * Project Completed 9/11
 
